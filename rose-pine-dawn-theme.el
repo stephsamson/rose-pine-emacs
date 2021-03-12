@@ -43,7 +43,7 @@
   (italic                    (:foreground faded))
   (bold-italic               (:foreground foam))
   (region                    (:background subtle))
-  (highlight                 (:background subtle))
+  (highlight                 (:background high))
   (fixed-pitch-serif         (:foregrund foam))
   (variable-pitch            (:foregroud foam))
   (cursor                    (:background cursor))
