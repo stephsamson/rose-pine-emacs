@@ -42,7 +42,7 @@
   (bold                      (:foreground foam))
   (italic                    (:foreground faded))
   (bold-italic               (:foreground foam))
-  (region                    (:background subtle))
+  (region                    (:background high))
   (highlight                 (:background high))
   (fixed-pitch-serif         (:foregrund foam))
   (variable-pitch            (:foregroud foam))
@@ -72,7 +72,7 @@
 
   (isearch                                   (:foreground foam))
   (isearch-fail                              (:foreground faded))
-  (lazy-highlight                            (:foreground subtle))
+  (lazy-highlight                            (:foreground high))
   (trailing-whitespace                       (:foreground subtle))
   (show-paren-match                          (:foreground rose))
   (tooltip                                   (:height 0.85))
