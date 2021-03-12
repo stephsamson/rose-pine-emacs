@@ -25,7 +25,7 @@
   ;; Rose Pine Dawn
   (text       "#575279")  ;; foreground
   (base       "#faf4ed")  ;; background
-  (high       "#6e6a86")  ;; highlight
+  (high       "#fffaf3")  ;; highlight
   (love       "#b4637a")  ;; critical
   (iris       "#907aa9")  ;; salient
   (foam       "#56949f")  ;; strong
