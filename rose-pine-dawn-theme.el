@@ -32,6 +32,7 @@
   (rose       "#d7827e")  ;; popout
   (subtle     "#6e6a86")  ;; subtle
   (faded      "#cecaed")  ;; faded
+  (pink       "#f5e2df")  ;; highlight
   (cursor     "#286983")) ;; cursor
 
 
@@ -42,8 +43,8 @@
   (bold                      (:foreground foam))
   (italic                    (:foreground faded))
   (bold-italic               (:foreground foam))
-  (region                    (:background high))
-  (highlight                 (:background high))
+  (region                    (:background pink))
+  (highlight                 (:background pink))
   (fixed-pitch-serif         (:foregrund foam))
   (variable-pitch            (:foregroud foam))
   (cursor                    (:background cursor))
