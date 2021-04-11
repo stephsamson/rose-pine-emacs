@@ -33,8 +33,8 @@
   (subtle     "#6e6a86")  ;; subtle
   (faded      "#cecaed")  ;; faded
   (pink       "#f5e2df")  ;; highlight
-  (cursor     "#286983")) ;; cursor
-
+  (cursor     "#286983")  ;; cursor
+  (gold       "#ea9d34")) ;; i-search
 
   ;; Faces
  ((default                   (:background base :foreground text))
@@ -73,7 +73,7 @@
 
   (isearch                                   (:foreground foam))
   (isearch-fail                              (:foreground faded))
-  (lazy-highlight                            (:foreground high))
+  (lazy-highlight                            (:foreground gold))
   (trailing-whitespace                       (:foreground subtle))
   (show-paren-match                          (:foreground rose))
   (tooltip                                   (:height 0.85))
